@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20200" started-at="2020-01-09T13:56:03 EAT" finished-at="2020-01-09T13:56:23 EAT">
+  <suite name="Suite" duration-ms="20959" started-at="2020-01-09T15:35:33 EAT" finished-at="2020-01-09T15:35:54 EAT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20200" started-at="2020-01-09T13:56:03 EAT" finished-at="2020-01-09T13:56:23 EAT">
+    <test name="Test" duration-ms="20959" started-at="2020-01-09T15:35:33 EAT" finished-at="2020-01-09T15:35:54 EAT">
       <class name="kaizen.screenshots">
-        <test-method status="PASS" signature="testGuru99TakeScreenShot()[pri:0, instance:kaizen.screenshots@768b970c]" name="testGuru99TakeScreenShot" duration-ms="20142" started-at="2020-01-09T13:56:03 EAT" finished-at="2020-01-09T13:56:23 EAT">
+        <test-method status="PASS" signature="testGuru99TakeScreenShot()[pri:0, instance:kaizen.screenshots@2698dc7]" name="testGuru99TakeScreenShot" duration-ms="20911" started-at="2020-01-09T15:35:33 EAT" finished-at="2020-01-09T15:35:54 EAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGuru99TakeScreenShot -->
       </class> <!-- kaizen.screenshots -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
