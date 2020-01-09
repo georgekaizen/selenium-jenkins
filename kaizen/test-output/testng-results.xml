@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20200" started-at="2020-01-09T13:56:03 EAT" finished-at="2020-01-09T13:56:23 EAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20200" started-at="2020-01-09T13:56:03 EAT" finished-at="2020-01-09T13:56:23 EAT">
+      <class name="kaizen.screenshots">
+        <test-method status="PASS" signature="testGuru99TakeScreenShot()[pri:0, instance:kaizen.screenshots@768b970c]" name="testGuru99TakeScreenShot" duration-ms="20142" started-at="2020-01-09T13:56:03 EAT" finished-at="2020-01-09T13:56:23 EAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGuru99TakeScreenShot -->
+      </class> <!-- kaizen.screenshots -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
