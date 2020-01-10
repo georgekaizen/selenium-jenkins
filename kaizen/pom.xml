@@ -21,19 +21,12 @@
   	<dependency>
   		<groupId>org.testng</groupId>
   		<artifactId>testng</artifactId>
-  		<version>7.0.0</version>
-  		<scope>test</scope>
+  		<version>7.0.0</version><!--$NO-MVN-MAN-VER$-->
   	</dependency>
   	<dependency>
   		<groupId>org.apache.maven.plugins</groupId>
   		<artifactId>maven-surefire-plugin</artifactId>
   		<version>3.0.0-M4</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.apache.maven.plugins</groupId>
-  		<artifactId>maven-compiler-plugin</artifactId>
-  		<version>3.8.1</version>
-  		 <type>maven-plugin</type>
   	</dependency>
   	<dependency>
   		<groupId>org.junit.jupiter</groupId>
